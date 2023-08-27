@@ -1,0 +1,1 @@
+# fashio_item_classifier_ver1
